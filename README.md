@@ -7,3 +7,9 @@ Author for correspondence: JIAN Zaiyou, jian19732004@126.com. (+86)13273730169.
 Dates: March 6-7, 2023.
 Geographic Location: Xinxiang base, North China Petroleum Bureau of China Petrochemical Corporation
 Funding Sources:No
+Access information: No applied.
+Data & code file overview
+This data repository consist of 1 data files and this README document, with the following data filenames.
+    1. [The correlation between the number of arcuate striations and that of tree rings in P. alba branches.doc] 
+Software versions
+Statistical Product and Service Solutions 10.0 (SPSS, International Business Machines Corporation, USA). 
